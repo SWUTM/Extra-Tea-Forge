@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "extratea:cup"
+    },
+    "1": {
+      "item": "extratea:mint"
+    }
+  },
+  "result": {
+    "item": "extratea:mint_tea",
+    "count": 1
+  }
+}

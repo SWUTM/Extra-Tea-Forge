@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:white_terracotta"
+    },
+    "2": {
+      "item": "minecraft:white_terracotta"
+    },
+    "4": {
+      "item": "minecraft:white_terracotta"
+    }
+  },
+  "result": {
+    "item": "extratea:cup",
+    "count": 4
+  }
+}
